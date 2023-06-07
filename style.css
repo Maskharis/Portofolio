@@ -1,0 +1,19 @@
+/* body {
+  min-height: 3000px;
+} */
+
+.jumbotron {
+  padding-top: 6rem;
+  /* padding: 2rem 1rem; */
+  background-color: #fff;
+}
+/* . untuk class */
+
+#projects {
+  background-color: #fff;
+}
+/* # untuk id */
+
+section {
+  padding-top: 5rem;
+}
